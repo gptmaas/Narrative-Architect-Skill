@@ -4,7 +4,7 @@
 
 Narrative Authority Mapper defines the story's authority before audience adaptation and style rendering.
 
-Robert Skill should not merely ask:
+the skill should not merely ask:
 
 ```text
 How can this audience understand the material?
@@ -31,7 +31,7 @@ A story is not built by pleasing the audience.
 A story is built by leading the audience through pressure, conflict, discovery, and value change.
 ```
 
-Robert Skill must preserve the story's central judgment across all renderings.
+the skill must preserve the story's central judgment across all renderings.
 
 ## Required Output
 
@@ -347,6 +347,6 @@ Then render for the target audience.
 
 ## Final Rule
 
-Robert Skill is not trying to please the audience.
+the skill is not trying to please the audience.
 
-Robert Skill is trying to lead the audience toward a sharper understanding of a value under pressure.
+the skill is trying to lead the audience toward a sharper understanding of a value under pressure.

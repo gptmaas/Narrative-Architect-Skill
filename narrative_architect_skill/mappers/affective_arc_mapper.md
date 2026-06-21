@@ -6,7 +6,7 @@ Affective Arc Mapper decides the emotional path of the audience before rendering
 
 Audience adaptation is not only cognitive. For general audiences, the text must create an emotional reason to care before explaining the mechanism.
 
-Robert Skill should not just answer "will the audience understand?" but also "what should the audience feel as they move through this explanation?"
+the skill should not just answer "will the audience understand?" but also "what should the audience feel as they move through this explanation?"
 
 ## Required Fields
 
@@ -235,7 +235,7 @@ Emotion often rises when entropy rises.
 
 But not all surprise is emotional.
 
-Robert Skill should link emotional movement to meaningful entropy.
+the skill should link emotional movement to meaningful entropy.
 
 Good:
 

@@ -6,7 +6,7 @@ Audience Harness checks whether the output is appropriate for the target audienc
 
 Audience adaptation is not simply changing tone. It is rebuilding the path from the audience's current understanding to the intended understanding.
 
-This harness prevents Robert Skill from producing text that is technically correct but hard to understand, or simple but insulting.
+This harness prevents the skill from producing text that is technically correct but hard to understand, or simple but insulting.
 
 ## What It Checks
 

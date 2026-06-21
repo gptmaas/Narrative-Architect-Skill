@@ -34,7 +34,7 @@ shy
 overthinking
 ```
 
-Robert Skill should not turn these into defects.
+the skill should not turn these into defects.
 
 It should reframe them as known conditions that can be handled with better context.
 

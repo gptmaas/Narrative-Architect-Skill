@@ -8,7 +8,7 @@ It runs after Story Kernel Builder and before final rendering. It may also run a
 
 ## What It Checks
 
-A valid Robert Skill narrative should include:
+A valid the skill narrative should include:
 
 1. Narrative object
 2. Protagonist

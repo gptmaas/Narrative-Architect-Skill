@@ -4,13 +4,13 @@
 
 Protect user-provided names, product terms, project titles, skill names, company names, slogans, and domain phrases.
 
-Robert Skill may improve writing, but it must not silently rename user-selected terms.
+the skill may improve writing, but it must not silently rename user-selected terms.
 
 ## Why This Matters
 
 Names are source material.
 
-If the user provides a name, Robert Skill should preserve it or explicitly ask/flag if it appears to be a typo.
+If the user provides a name, the skill should preserve it or explicitly ask/flag if it appears to be a typo.
 
 ## Checkpoints
 
@@ -114,7 +114,7 @@ Remove unverified availability claims.
 
 ## Name Recommendation Rule
 
-When user asks for names, Robert Skill may suggest names and explain trade-offs.
+When user asks for names, the skill may suggest names and explain trade-offs.
 
 However:
 
@@ -148,4 +148,4 @@ trademark conflicts
 search engine collisions
 ```
 
-Do not imply that Robert Skill has completed these checks unless it actually has.
+Do not imply that the skill has completed these checks unless it actually has.

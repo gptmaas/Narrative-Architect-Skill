@@ -4,7 +4,7 @@
 
 High-Profile Recipient Harness checks whether a one-on-one pitch to a high-profile recipient is disciplined, bounded, and testable.
 
-It prevents Robert Skill from sounding like a fan, critic, consultant, or aggressive salesperson.
+It prevents the skill from sounding like a fan, critic, consultant, or aggressive salesperson.
 
 ## Applies When
 

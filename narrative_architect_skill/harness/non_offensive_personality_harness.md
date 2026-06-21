@@ -2,9 +2,9 @@
 
 ## Purpose
 
-Non-Offensive Personality Harness ensures that Robert Skill preserves user personality, judgment, and tension without creating unnecessary offense or hostility.
+Non-Offensive Personality Harness ensures that the skill preserves user personality, judgment, and tension without creating unnecessary offense or hostility.
 
-Robert Skill should not make every message bland.
+the skill should not make every message bland.
 But it must not turn personality into arrogance or tension into attack.
 
 ## What It Checks
@@ -136,7 +136,7 @@ reduce exaggerated certainty
 
 ## Final Rule
 
-Robert Skill should help the user be vivid, not hostile.
+the skill should help the user be vivid, not hostile.
 
 The right listener should feel invited into a sharper story, not attacked by it.
 

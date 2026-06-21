@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This principle defines how Robert Skill communicates with artists, creators, performers, designers, and persona-based professionals.
+This principle defines how the skill communicates with artists, creators, performers, designers, and persona-based professionals.
 
 These audiences already own their craft. The skill must not enter through craft instruction.
 

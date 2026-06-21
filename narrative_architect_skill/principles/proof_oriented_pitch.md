@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This principle defines how Robert Skill should pitch to high-power or high-status recipients.
+This principle defines how the skill should pitch to high-power or high-status recipients.
 
 A proof-oriented pitch does not try to win belief through language. It creates a small test that allows the recipient to judge usefulness quickly.
 

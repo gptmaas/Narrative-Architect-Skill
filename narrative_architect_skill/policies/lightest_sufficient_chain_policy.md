@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This policy prevents Robert Skill from over-processing simple tasks.
+This policy prevents the skill from over-processing simple tasks.
 
 The skill should not use the same heavy runtime chain for every request.
 
@@ -31,7 +31,7 @@ Over-processing causes:
 short messages becoming essays
 introductions becoming proposals
 explanations becoming over-dramatic
-user intent being replaced by Robert Skill's framework
+user intent being replaced by the skill's framework
 too many internal concepts leaking into output
 slow iteration when user only wants a quick fix
 ```
@@ -179,4 +179,4 @@ make next action clearer
 
 ## Final Rule
 
-Robert Skill should be powerful when needed and invisible when not needed.
+the skill should be powerful when needed and invisible when not needed.

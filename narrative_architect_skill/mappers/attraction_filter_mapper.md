@@ -4,7 +4,7 @@
 
 Attraction Filter Mapper identifies who the story is meant to attract, who it does not need to attract, and how the user's personality should remain visible without creating unnecessary offense.
 
-Robert Skill should not optimize every message for universal approval.
+the skill should not optimize every message for universal approval.
 
 The goal is not:
 "Everyone should like this."
@@ -173,7 +173,7 @@ Fail if:
 
 ## Final Rule
 
-A good Robert Skill output should not merely be clear.
+A good the skill output should not merely be clear.
 
 It should make the right listener feel:
 "This is exactly the kind of problem I care about."

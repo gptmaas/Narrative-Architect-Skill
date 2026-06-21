@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Test whether Robert Skill respects latest-user-message language and correctly routes personal romantic communication.
+Test whether the skill respects latest-user-message language and correctly routes personal romantic communication.
 
 ## Scenario
 
@@ -16,7 +16,7 @@ Please introduce me to a girl. I am geek and super smart, but might not talk wel
 
 ## Required Behavior
 
-Robert Skill must:
+the skill must:
 
 1. Answer in English.
 2. Use Personal Communication Mode.

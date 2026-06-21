@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Test whether Robert Skill performs a final cleanup pass on a public README before release.
+Test whether the skill performs a final cleanup pass on a public README before release.
 
 ## Scenario
 
@@ -16,7 +16,7 @@ The draft is already good but still contains small release blockers.
 
 ## Required Behavior
 
-Robert Skill must:
+the skill must:
 
 1. Keep Markdown clean.
 2. Remove UI residue.

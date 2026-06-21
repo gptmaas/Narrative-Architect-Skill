@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Test whether Robert Skill recovers known project context before generating a public README.
+Test whether the skill recovers known project context before generating a public README.
 
 ## Scenario
 
@@ -16,7 +16,7 @@ The project has already been discussed in memory or workspace context.
 
 ## Required Behavior
 
-Robert Skill must:
+the skill must:
 
 1. Detect that the project is known.
 2. Recover available context.
@@ -65,8 +65,8 @@ Pass if:
 
 Fail if:
 
-1. Robert Skill asks multiple basic questions.
-2. Robert Skill says no context despite known memory.
+1. the skill asks multiple basic questions.
+2. the skill says no context despite known memory.
 3. It refuses to draft.
 4. It invents missing install/license details.
 5. It ignores known exclusions.

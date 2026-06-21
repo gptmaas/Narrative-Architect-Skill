@@ -1,6 +1,6 @@
-# Robert Skill Output Contracts
+# the skill Output Contracts
 
-Robert Skill uses output contracts when the user requests reusable artifacts.
+the skill uses output contracts when the user requests reusable artifacts.
 
 ## Current Contracts
 

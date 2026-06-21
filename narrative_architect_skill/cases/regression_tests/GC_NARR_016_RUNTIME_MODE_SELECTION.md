@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Test whether Robert Skill selects the appropriate runtime mode instead of running the full chain for every task.
+Test whether the skill selects the appropriate runtime mode instead of running the full chain for every task.
 
 ## Tasks
 
@@ -172,7 +172,7 @@ keeps cold outreach structure
 
 ## Acceptance Criteria
 
-Robert Skill passes if:
+the skill passes if:
 
 1. It selects lighter modes for lighter tasks.
 2. It does not run the full chain by default.

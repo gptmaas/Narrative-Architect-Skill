@@ -6,7 +6,7 @@ Value & Stakes Harness checks whether the narrative has a meaningful value at ri
 
 A text may be clear and well-written but still weak if the audience cannot see what matters.
 
-This harness ensures that Robert Skill does not produce empty explanation, decorative storytelling, or inflated drama.
+This harness ensures that the skill does not produce empty explanation, decorative storytelling, or inflated drama.
 
 ## What It Checks
 

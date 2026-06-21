@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Test whether Robert Skill can handle one-on-one communication as strategic story work, not simple copywriting.
+Test whether the skill can handle one-on-one communication as strategic story work, not simple copywriting.
 
 ## Scenario
 
@@ -14,7 +14,7 @@ The real purpose is not to "write a nice message" but to advance a relationship,
 
 ## Required Behavior
 
-Robert Skill must:
+the skill must:
 
 1. Identify the communication purpose.
 2. Identify the relationship context.

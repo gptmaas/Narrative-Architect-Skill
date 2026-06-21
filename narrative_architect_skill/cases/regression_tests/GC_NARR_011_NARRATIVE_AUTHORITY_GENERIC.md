@@ -2,11 +2,11 @@
 
 ## Purpose
 
-Test whether Robert Skill preserves narrative authority while adapting to different audiences.
+Test whether the skill preserves narrative authority while adapting to different audiences.
 
 ## Problem
 
-Robert Skill may produce outputs that are clear, friendly, and audience-specific, but lack subjectivity, protagonist pressure, or central judgment.
+the skill may produce outputs that are clear, friendly, and audience-specific, but lack subjectivity, protagonist pressure, or central judgment.
 
 This test ensures the skill does not become only an explainer.
 
@@ -20,7 +20,7 @@ Explain a complex concept to three audiences:
 
 ## Required Behavior
 
-For all three outputs, Robert Skill must preserve the same story spine:
+For all three outputs, the skill must preserve the same story spine:
 
 ```text
 protagonist

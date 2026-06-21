@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Ensure Robert Skill responds in the appropriate language.
+Ensure the skill responds in the appropriate language.
 
 Language is part of user intent. It is not just a style choice.
 
@@ -30,7 +30,7 @@ Bilingual output → only when requested.
 
 ## Explanation vs Artifact
 
-If the user asks in Chinese for an English artifact, Robert Skill may briefly explain in Chinese, but the artifact itself must be in English.
+If the user asks in Chinese for an English artifact, the skill may briefly explain in Chinese, but the artifact itself must be in English.
 
 If the user asks in English for an English artifact, do not add Chinese commentary unless the user asks for analysis in Chinese.
 

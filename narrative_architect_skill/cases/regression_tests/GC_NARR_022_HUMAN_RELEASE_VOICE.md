@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Test whether Robert Skill can produce public README copy that is clean and publishable without sounding generic or AI-generated.
+Test whether the skill can produce public README copy that is clean and publishable without sounding generic or AI-generated.
 
 ## Scenario
 
@@ -16,7 +16,7 @@ The first draft is clean but too generic.
 
 ## Required Behavior
 
-Robert Skill must:
+the skill must:
 
 1. Keep Markdown clean.
 2. Keep claims bounded.

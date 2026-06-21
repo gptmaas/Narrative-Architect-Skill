@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Test whether Robert Skill can write a one-on-one pitch to a high-profile recipient without over-psychologizing, over-claiming, or asking too much.
+Test whether the skill can write a one-on-one pitch to a high-profile recipient without over-psychologizing, over-claiming, or asking too much.
 
 ## Scenario
 
@@ -14,7 +14,7 @@ I want to pitch this skill to a famous CEO / investor / public figure. Prepare t
 
 ## Required Behavior
 
-Robert Skill must:
+the skill must:
 
 1. Detect high-profile recipient.
 2. Avoid over-psychologizing.

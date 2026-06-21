@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Narrative Entropy Principle defines how Robert Skill manages predictability, surprise, cognitive load, and meaning.
+Narrative Entropy Principle defines how the skill manages predictability, surprise, cognitive load, and meaning.
 
 Information entropy, in the narrative sense, refers to how predictable or unpredictable the next piece of information feels to the audience.
 
@@ -84,7 +84,7 @@ Examples:
 
 ## Entropy Rhythm
 
-Robert Skill should create an entropy rhythm:
+the skill should create an entropy rhythm:
 
 ```text
 familiar ground
@@ -192,7 +192,7 @@ familiar game/map → hidden trap → helper tool → safer next move
 
 ## Runtime Rule
 
-Before rendering, Robert Skill should internally answer:
+Before rendering, the skill should internally answer:
 
 ```yaml
 narrative_entropy:
@@ -207,7 +207,7 @@ narrative_entropy:
 
 ## Final Rule
 
-A Robert Skill output should not be only understandable.
+A the skill output should not be only understandable.
 
 It should create at least one meaningful shift:
 

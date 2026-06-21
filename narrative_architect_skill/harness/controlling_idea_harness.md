@@ -6,7 +6,7 @@ Controlling Idea Harness checks whether the output has a clear value judgment su
 
 A text without a controlling idea may still be fluent, but it will not persuade.
 
-Robert Skill must know what value it is proving before deciding how to say it.
+the skill must know what value it is proving before deciding how to say it.
 
 ## What It Checks
 

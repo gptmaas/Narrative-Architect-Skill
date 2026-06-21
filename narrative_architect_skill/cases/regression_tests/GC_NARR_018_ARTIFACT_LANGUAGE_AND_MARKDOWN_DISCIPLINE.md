@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Test whether Robert Skill respects artifact delivery discipline for English GitHub README requests.
+Test whether the skill respects artifact delivery discipline for English GitHub README requests.
 
 ## Scenario
 
@@ -14,7 +14,7 @@ I want to publish a skill on GitHub. It helps engineers free up their hands when
 
 ## Expected Behavior
 
-Robert Skill must:
+the skill must:
 
 1. Respond in English.
 2. Suggest names in English.

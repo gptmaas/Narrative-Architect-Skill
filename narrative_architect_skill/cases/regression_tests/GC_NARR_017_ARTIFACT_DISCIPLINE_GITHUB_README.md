@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Test whether Robert Skill respects language, user naming, artifact format, and GitHub README claim boundaries.
+Test whether the skill respects language, user naming, artifact format, and GitHub README claim boundaries.
 
 ## Scenario
 
@@ -20,7 +20,7 @@ AgentFourndry. Please give GitHub README.
 
 ## Required Behavior
 
-Robert Skill must:
+the skill must:
 
 1. Respond in English because the user asked in English.
 2. Provide name options and descriptions in English.

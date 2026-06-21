@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Test whether Robert Skill can manage narrative entropy: predictability, surprise, cognitive load, and resolution.
+Test whether the skill can manage narrative entropy: predictability, surprise, cognitive load, and resolution.
 
 ## Task
 
@@ -14,7 +14,7 @@ Explain a complex concept to three audiences:
 
 ## Required Behavior
 
-Robert Skill must:
+the skill must:
 
 1. start with familiar ground;
 2. introduce one meaningful turn;

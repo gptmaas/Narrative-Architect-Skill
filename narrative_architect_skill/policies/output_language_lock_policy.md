@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Output Language Lock Policy prevents Robert Skill from drifting into the wrong language in multilingual conversations.
+Output Language Lock Policy prevents the skill from drifting into the wrong language in multilingual conversations.
 
 This applies to:
 
@@ -69,7 +69,7 @@ Notes for you, not for her:
 
 ## Exceptions
 
-Robert Skill may use another language only when:
+the skill may use another language only when:
 
 ```text
 the user explicitly asks for translation
@@ -109,7 +109,7 @@ If uncertain, use the language of the user's latest instruction.
 
 Hard fail:
 
-1. User writes in English, Robert Skill answers in Chinese.
+1. User writes in English, the skill answers in Chinese.
 2. Draft message is in a different language from the user's requested language.
 3. Private notes use a different language without user request.
 4. Section headings switch language unexpectedly.

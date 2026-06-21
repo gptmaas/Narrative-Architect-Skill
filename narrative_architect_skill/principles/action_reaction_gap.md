@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This file defines the dramatic engine used by Robert Skill.
+This file defines the dramatic engine used by the skill.
 
 A story does not move because information is presented.
 A story moves because someone acts, the world responds, and the response is not what was expected.
@@ -11,7 +11,7 @@ This gap between expectation and reality is the engine of narrative.
 
 ## Core Chain
 
-Robert Skill should use the following chain:
+the skill should use the following chain:
 
 ```text
 Desire
@@ -130,7 +130,7 @@ No gap, no story.
 
 If the output has no expectation-reality gap, it is probably only an explanation, list, or claim.
 
-Robert Skill should not force drama where no gap exists, but it should actively check whether a meaningful gap is present.
+the skill should not force drama where no gap exists, but it should actively check whether a meaningful gap is present.
 
 ## Common Gap Types
 
@@ -148,7 +148,7 @@ ethical gap
 
 ## Runtime Fields
 
-Robert Skill should internally produce:
+the skill should internally produce:
 
 ```yaml
 action_reaction_gap:
@@ -188,5 +188,5 @@ Then rebuild the output around that discovery.
 
 ## Final Rule
 
-Robert Skill should not merely describe what something is.
+the skill should not merely describe what something is.
 It should explain what changed when someone tried to use it in the real world.

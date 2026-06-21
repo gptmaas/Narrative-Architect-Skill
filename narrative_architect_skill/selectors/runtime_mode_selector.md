@@ -2,9 +2,9 @@
 
 ## Purpose
 
-Runtime Mode Selector chooses the appropriate execution mode before Robert Skill processes the task.
+Runtime Mode Selector chooses the appropriate execution mode before the skill processes the task.
 
-Robert Skill should not run the full narrative chain for every request.
+The skill should not run the full narrative chain for every request.
 
 A short message should not become an essay. 
 A quick introduction should not become a proposal. 
@@ -25,7 +25,7 @@ If the user is dissatisfied, do not rewrite blindly; enter recovery mode.
 
 ## Runtime Modes
 
-Robert Skill supports six primary runtime modes:
+The skill supports seven runtime modes:
 
 ```text
 1. Quick Message Mode
@@ -34,9 +34,10 @@ Robert Skill supports six primary runtime modes:
 4. Expert Translation Mode
 5. Rewrite Recovery Mode
 6. Personal Communication Mode
+7. Full Narrative Mode
 ```
 
-A seventh mode, Full Narrative Mode, may be used only for complex, high-stakes, long-form narrative work.
+Full Narrative Mode is reserved for complex, high-stakes, long-form narrative work.
 
 ---
 
@@ -403,7 +404,7 @@ Preferred question:
 Fail if:
 
 ```text
-Robert Skill defends previous output
+the skill defends previous output
 keeps rewriting at word level
 asks many questions
 ignores user's correction
@@ -412,54 +413,7 @@ does not reroute
 
 ---
 
-# Mode 6: Full Narrative Mode
-
-## Use When
-
-Only for complex, high-stakes, long-form work.
-
-Examples:
-
-```text
-major pitch narrative
-founder story
-brand manifesto
-long-form article
-keynote speech
-strategic narrative document
-high-stakes collaboration proposal
-```
-
-## Runtime Chain
-
-Use the full standard chain:
-
-```text
-Parse Material
-→ Extract Claim Boundary
-→ Build Story Kernel
-→ Map Narrative Authority
-→ Identify Value / Stakes
-→ Build Action-Reaction-Gap
-→ Build Controlling Idea
-→ Map Audience Cognition
-→ Map Affective Arc
-→ Map Narrative Entropy
-→ Select Entry Point
-→ Render with Style
-→ Run Harness
-→ Final Output
-```
-
-## Rule
-
-Do not use Full Narrative Mode by default.
-
-Use it only when the task requires full story architecture.
-
----
-
-# Mode 7: Personal Communication Mode
+# Mode 6: Personal Communication Mode
 
 ## Use When
 
@@ -539,6 +493,53 @@ See: `principles/personal_authenticity_without_performance.md`
 
 ---
 
+# Mode 7: Full Narrative Mode
+
+## Use When
+
+Only for complex, high-stakes, long-form work.
+
+Examples:
+
+```text
+major pitch narrative
+founder story
+brand manifesto
+long-form article
+keynote speech
+strategic narrative document
+high-stakes collaboration proposal
+```
+
+## Runtime Chain
+
+Use the full standard chain:
+
+```text
+Parse Material
+→ Extract Claim Boundary
+→ Build Story Kernel
+→ Map Narrative Authority
+→ Identify Value / Stakes
+→ Build Action-Reaction-Gap
+→ Build Controlling Idea
+→ Map Audience Cognition
+→ Map Affective Arc
+→ Map Narrative Entropy
+→ Select Entry Point
+→ Render with Style
+→ Run Harness
+→ Final Output
+```
+
+## Rule
+
+Do not use Full Narrative Mode by default.
+
+Use it only when the task requires full story architecture.
+
+---
+
 # Mode Selection Rules
 
 ## Rule 1: Short output defaults to light mode
@@ -606,7 +607,7 @@ Do not expose mode selection unless:
 
 ```text
 the user asks for analysis
-the user is debugging Robert Skill
+the user is debugging the skill
 the user asks why the output changed
 ```
 
@@ -616,6 +617,6 @@ Default output should be user-facing content only.
 
 # Final Rule
 
-Robert Skill should not show how much machinery it used.
+The skill should not show how much machinery it used.
 
 It should use the right amount of machinery and then disappear behind the output.

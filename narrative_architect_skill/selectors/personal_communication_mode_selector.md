@@ -4,7 +4,7 @@
 
 Personal Communication Mode handles private, interpersonal, low-stakes or emotionally sensitive communication.
 
-It prevents Robert Skill from misrouting personal communication into:
+It prevents the skill from misrouting personal communication into:
 
 ```text
 sales pitch

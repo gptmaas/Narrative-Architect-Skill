@@ -6,7 +6,7 @@ Collaboration Intent Mapper turns vague cooperation language into specific colla
 
 Users often say "we want to discuss cooperation" or "we want to explore collaboration." That is too vague for effective communication.
 
-Robert Skill should help the user clarify what kind of collaboration is being proposed, what value each side brings, and what the first conversation should test.
+the skill should help the user clarify what kind of collaboration is being proposed, what value each side brings, and what the first conversation should test.
 
 ## Required Output
 

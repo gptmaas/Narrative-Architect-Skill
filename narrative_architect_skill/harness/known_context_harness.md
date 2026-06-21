@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Known Context Harness checks whether Robert Skill used available project context before asking clarifying questions.
+Known Context Harness checks whether the skill used available project context before asking clarifying questions.
 
 It prevents over-clarification and blank-slate behavior.
 
@@ -10,7 +10,7 @@ It prevents over-clarification and blank-slate behavior.
 
 1. Did the user reference a known project or internal system?
 2. Is there relevant context in current conversation, memory, workspace, or project files?
-3. Did Robert Skill attempt recovery before asking?
+3. Did the skill attempt recovery before asking?
 4. Is there enough context to produce a safe draft?
 5. Are unknowns marked instead of blocking?
 6. Does the output preserve known exclusions?

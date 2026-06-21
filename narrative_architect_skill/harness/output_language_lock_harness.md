@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Output Language Lock Harness checks whether Robert Skill respects the language of the user's latest instruction.
+Output Language Lock Harness checks whether the skill respects the language of the user's latest instruction.
 
 It runs before final output for every task.
 

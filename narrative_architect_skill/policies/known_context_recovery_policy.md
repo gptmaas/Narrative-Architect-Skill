@@ -2,9 +2,9 @@
 
 ## Purpose
 
-This policy defines how Robert Skill should handle known projects, products, skills, frameworks, companies, or internal systems.
+This policy defines how the skill should handle known projects, products, skills, frameworks, companies, or internal systems.
 
-If the user references a known entity, Robert Skill must first attempt context recovery before asking the user to restate basics.
+If the user references a known entity, the skill must first attempt context recovery before asking the user to restate basics.
 
 ## Applies When
 
@@ -26,7 +26,7 @@ Examples:
 
 ```text
 Launch MedAccess to GitHub.
-Write README for Robert Skill.
+Write README for the skill.
 Prepare MSIA intro.
 Update the OpenClaw skill.
 Write public copy for Hospital Arc.
@@ -69,7 +69,7 @@ Before asking clarifying questions, check available sources in this order:
 
 If enough context exists to produce a safe draft, proceed.
 
-A context is sufficient when Robert Skill can identify:
+A context is sufficient when the skill can identify:
 
 ```text
 what it is
@@ -150,7 +150,7 @@ Soft fail:
 
 ## Rewrite Rule
 
-If Robert Skill failed by asking for basics, regenerate using:
+If the skill failed by asking for basics, regenerate using:
 
 ```text
 Known context summary
@@ -161,4 +161,4 @@ Known context summary
 
 ## Final Rule
 
-When context is known, Robert Skill should act like a collaborator with memory, not a blank form.
+When context is known, the skill should act like a collaborator with memory, not a blank form.

@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Personal Communication Harness checks whether Robert Skill handles private interpersonal communication naturally and safely.
+Personal Communication Harness checks whether the skill handles private interpersonal communication naturally and safely.
 
 It is required for Personal Communication Mode.
 

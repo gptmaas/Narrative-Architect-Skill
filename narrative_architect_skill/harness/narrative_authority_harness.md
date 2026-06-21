@@ -4,7 +4,7 @@
 
 Narrative Authority Harness checks whether the output has a clear story spine, authorial judgment, and protagonist-driven movement.
 
-It prevents Robert Skill from becoming only an explainer, adapter, or style imitator.
+It prevents the skill from becoming only an explainer, adapter, or style imitator.
 
 A text may be clear, accurate, and audience-friendly, but still fail as a story if it lacks authority.
 

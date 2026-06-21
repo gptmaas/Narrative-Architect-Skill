@@ -121,7 +121,7 @@ Do not make private inspiration the public positioning.
 Internal:
 
 ```text
-Robert Skill
+the skill
 McKee-inspired story chain
 ```
 

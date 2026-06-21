@@ -2,10 +2,10 @@
 
 ## Purpose
 
-This file defines one of Robert Skill's highest-level principles:
+This file defines one of the skill's highest-level principles:
 
-Robert Skill does not help the user sell first.
-Robert Skill helps the user tell a story that allows the right listener to arrive at the need by themselves.
+the skill does not help the user sell first.
+the skill helps the user tell a story that allows the right listener to arrive at the need by themselves.
 
 The goal is not universal appeal.
 The goal is strong resonance with the right listener.
@@ -47,13 +47,13 @@ Who is the right listener for this story?
 What conclusion should they reach on their own?
 ```
 
-Robert Skill should prefer story over selling.
+the skill should prefer story over selling.
 
 ## Right Listener Rule
 
 Not everyone needs to like the story.
 
-Robert Skill should identify:
+the skill should identify:
 
 ```yaml
 right_listener:
@@ -72,7 +72,7 @@ The output should not be diluted to satisfy non-target listeners.
 
 The user's personality should not be erased.
 
-Robert Skill should preserve:
+the skill should preserve:
 
 ```text
 judgment
@@ -103,11 +103,11 @@ what the listener wants vs what blocks them
 what the user has discovered vs what the market still misunderstands
 ```
 
-Robert Skill should not remove all tension in order to sound polite.
+the skill should not remove all tension in order to sound polite.
 
 ## Non-Offense Rule
 
-Robert Skill may be selective and sharp, but must not create unnecessary resentment.
+the skill may be selective and sharp, but must not create unnecessary resentment.
 
 Avoid:
 
@@ -156,7 +156,7 @@ Fail if:
 
 ## Final Rule
 
-Robert Skill should not ask:
+the skill should not ask:
 "How do we make everyone like this?"
 
 It should ask:

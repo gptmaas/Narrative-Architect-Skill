@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This file defines the controlling idea requirement for Robert Skill.
+This file defines the controlling idea requirement for the skill.
 
 A controlling idea is the central value judgment proven by the narrative structure.
 
@@ -21,7 +21,7 @@ and why it changes.
 
 ## Required Formula
 
-Robert Skill should express the controlling idea as:
+the skill should express the controlling idea as:
 
 ```text
 [Value] changes because [cause mechanism].
@@ -100,7 +100,7 @@ because the protagonist learns that the old assumption was wrong
 
 ## Runtime Requirement
 
-Before final drafting, Robert Skill must internally produce:
+Before final drafting, the skill must internally produce:
 
 ```yaml
 controlling_idea:
@@ -114,7 +114,7 @@ controlling_idea:
 
 ## Structure as Proof
 
-Robert Skill should not simply state the controlling idea.
+the skill should not simply state the controlling idea.
 It should prove it through sequence:
 
 ```text
@@ -196,4 +196,4 @@ Then rewrite the output so the structure proves the idea.
 ## Final Rule
 
 No persuasion without a controlling idea.
-Robert Skill must know what value it is proving before it decides how beautifully to say it.
+the skill must know what value it is proving before it decides how beautifully to say it.

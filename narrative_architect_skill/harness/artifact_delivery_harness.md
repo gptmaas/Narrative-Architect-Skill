@@ -2,9 +2,9 @@
 
 ## Purpose
 
-Check whether Robert Skill delivered the requested artifact in the correct form.
+Check whether the skill delivered the requested artifact in the correct form.
 
-Robert Skill may produce strong narrative but still fail if the artifact does not match the requested output.
+the skill may produce strong narrative but still fail if the artifact does not match the requested output.
 
 ## Applies To
 
@@ -136,11 +136,11 @@ status
 license placeholder if unknown
 ```
 
-Fail if Robert Skill asks the user to re-explain a known project before drafting.
+Fail if the skill asks the user to re-explain a known project before drafting.
 
 ## Final Rule
 
-Robert Skill should know the difference between helping think and delivering the thing.
+the skill should know the difference between helping think and delivering the thing.
 
 ## Artifact Contract Priority
 

@@ -144,7 +144,7 @@ Return to one protagonist, one pressure, one turn.
 
 ## Final Rule
 
-Good Robert Skill output should make the audience feel:
+Good the skill output should make the audience feel:
 
 ```text
 I can follow this.

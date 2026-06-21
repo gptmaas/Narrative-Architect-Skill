@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This file defines how Robert Skill identifies value and stakes before writing.
+This file defines how the skill identifies value and stakes before writing.
 
 A story becomes meaningful only when something valuable can be gained, lost, protected, damaged, restored, or transformed.
 
@@ -16,7 +16,7 @@ Value is what matters.
 
 Stakes are what may be gained or lost if the protagonist succeeds or fails.
 
-Robert Skill must identify both before generating narrative output.
+the skill must identify both before generating narrative output.
 
 ## Types of Value
 
@@ -53,7 +53,7 @@ less wasted effort
 clearer accountability
 ```
 
-Robert Skill should translate abstract value into concrete consequence.
+the skill should translate abstract value into concrete consequence.
 
 ## Stakes Questions
 
@@ -81,7 +81,7 @@ Stronger stakes are concrete:
 If the team cannot catch hidden errors before delivery, AI output may enter real work with wrong facts, false certainty, or distorted source material.
 ```
 
-Robert Skill should avoid vague stakes unless the source material does not support more detail.
+the skill should avoid vague stakes unless the source material does not support more detail.
 
 ## Positive and Negative Value
 
@@ -97,7 +97,7 @@ confidence → doubt
 doubt → justified trust
 ```
 
-Robert Skill should identify the polarity of the value shift.
+the skill should identify the polarity of the value shift.
 
 ## Stakes Threshold
 
@@ -136,7 +136,7 @@ This turns one-off output into a more controllable process.
 
 ## Runtime Fields
 
-Robert Skill should internally produce:
+the skill should internally produce:
 
 ```yaml
 value_stakes:
@@ -162,5 +162,5 @@ Fail if:
 
 ## Final Rule
 
-Every Robert Skill output should make the value clear.
+Every the skill output should make the value clear.
 If the audience cannot answer "what is at stake?", the narrative has failed.

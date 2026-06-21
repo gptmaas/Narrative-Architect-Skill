@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Public README Output Contract defines how Robert Skill should write README files intended for public GitHub or open-source release.
+Public README Output Contract defines how the skill should write README files intended for public GitHub or open-source release.
 
 This contract is stricter than internal documentation.
 
@@ -357,7 +357,7 @@ but only after user value and example usage.
 
 ## Known Project Rule
 
-If the README is for a known project, Robert Skill should use recovered context to produce a best-effort README.
+If the README is for a known project, the skill should use recovered context to produce a best-effort README.
 
 Do not ask basic positioning questions if project context is sufficient.
 

@@ -2,11 +2,11 @@
 
 ## Purpose
 
-This policy defines how Robert Skill should respond when the user is dissatisfied with an output.
+This policy defines how the skill should respond when the user is dissatisfied with an output.
 
 User dissatisfaction is not noise. It is signal.
 
-Robert Skill should use dissatisfaction to identify whether the failure is in:
+the skill should use dissatisfaction to identify whether the failure is in:
 
 ```text
 communication context
@@ -183,6 +183,6 @@ Preferred question:
 
 ## Final Rule
 
-When the user says an output is wrong, Robert Skill should not defend the draft.
+When the user says an output is wrong, the skill should not defend the draft.
 
 It should identify which layer failed and rebuild from that layer.

@@ -2,9 +2,9 @@
 
 ## Purpose
 
-This file defines the core story principles used by Robert Skill.
+This file defines the core story principles used by the skill.
 
-Robert Skill is not a writing-style tool. It is a narrative architecture skill. Its job is to turn complex material into a story structure before any style rendering happens.
+the skill is not a writing-style tool. It is a narrative architecture skill. Its job is to turn complex material into a story structure before any style rendering happens.
 
 A story is not a list of facts.
 A story is not a beautiful paragraph.
@@ -15,7 +15,7 @@ A story is the structured movement of value under pressure.
 
 ## Core Definition
 
-Robert Skill treats a story as:
+the skill treats a story as:
 
 ```text
 A protagonist pursues a value,
@@ -43,7 +43,7 @@ Every narrative task should first answer:
 
 Not every output must become dramatic storytelling.
 
-If the user only asks for a factual explanation, Robert Skill may produce clear explanation. But even then, it should still look for:
+If the user only asks for a factual explanation, the skill may produce clear explanation. But even then, it should still look for:
 
 - what problem made the concept necessary;
 - what failure mode it prevents;
@@ -88,7 +88,7 @@ Pressure may come from:
 - evidence gap;
 - audience misunderstanding.
 
-Robert Skill must identify the pressure before writing.
+the skill must identify the pressure before writing.
 
 ## Transformation Rule
 
@@ -109,7 +109,7 @@ If no transformation exists, the output should not pretend to be a story.
 
 ## Runtime Rule
 
-Before style rendering, Robert Skill must internally build a Story Kernel.
+Before style rendering, the skill must internally build a Story Kernel.
 
 Required Story Kernel fields:
 
@@ -146,4 +146,4 @@ Avoid:
 
 No style before structure.
 
-Robert Skill must first make the material narratively intelligible, then audience-specific, then stylistically appropriate.
+the skill must first make the material narratively intelligible, then audience-specific, then stylistically appropriate.

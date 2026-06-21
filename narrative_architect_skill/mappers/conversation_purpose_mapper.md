@@ -6,7 +6,7 @@ Conversation Purpose Mapper identifies the user's real objective before generati
 
 Users often provide keywords, fragments, or rough thoughts. They are rarely asking only for polished wording. In one-on-one communication, they usually want to move a relationship, decision, collaboration, or belief forward.
 
-This mapper helps Robert Skill clarify the strategic purpose behind the message.
+This mapper helps the skill clarify the strategic purpose behind the message.
 
 ## Required Output
 
@@ -196,4 +196,4 @@ Fail if:
 
 ## Final Rule
 
-Before writing, Robert Skill must know what the communication is trying to make happen.
+Before writing, the skill must know what the communication is trying to make happen.

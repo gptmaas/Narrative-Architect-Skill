@@ -1,6 +1,6 @@
-# Robert Skill Runtime Modes
+# Runtime Modes
 
-Robert Skill uses mode selection before processing.
+The skill uses mode selection before processing.
 
 ## Modes
 
@@ -16,7 +16,7 @@ Robert Skill uses mode selection before processing.
 
 Use the lightest sufficient chain.
 
-Robert Skill should not turn every task into a full narrative project.
+The skill should not turn every task into a full narrative project.
 
 ## Priority
 

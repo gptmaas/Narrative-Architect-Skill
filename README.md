@@ -2,17 +2,15 @@
 
 **English** | [简体中文](README.zh-CN.md)
 
-Turn complex ideas into story-driven communication.
+Turn abstract, technical, or sensitive material into clear, audience-specific communication.
 
-Most drafts fail in the same quiet way: the facts are correct, but nobody feels why they matter.
+Most drafts fail in the same quiet way: the facts are correct, but nobody feels why they matter. Narrative Architect Skill helps you find the pressure, conflict, and turn inside complex material — then shape it for the person you actually need to reach. It will not make everyone like your message. It helps the right listener understand why it matters.
 
-Narrative Architect Skill helps you find the pressure, conflict, and turn inside complex material — then shape it for the person you actually need to reach. It will not make everyone like your message. It helps the right listener understand why it matters.
+The skill preserves source meaning and claim boundaries while improving narrative structure, emotional force, audience fit, and surface naturalness.
 
-## What It Is
+It is inspired by story-principle methods, including Robert McKee-style narrative thinking, but it is not affiliated with Robert McKee or any third-party writing program.
 
-This skill builds communication the way stories are built: from stakes and turning points, not bullet points and buzzwords.
-
-It does a few things well:
+## What It Does
 
 - **Finds the narrative kernel** — what is at stake, what old assumption is breaking
 - **Reads the audience** — what they know, what they fear, where to start
@@ -21,30 +19,32 @@ It does a few things well:
 
 For source-grounded work, factual claims stay tied to known material. If the source has gaps, the output names them instead of filling them with speculation.
 
+## Common Tasks
+
+Use this skill when the user asks to:
+
+- rewrite an email, message, post, proposal, README, article, speech, or pitch
+- turn technical material into a non-technical explanation
+- create founder, investor, customer, partner, or executive communication
+- improve a draft that sounds too generic, too AI-written, too formal, too salesy, or too abstract
+- adapt one idea for different audiences, such as developers, investors, customers, executives, or general readers
+- preserve factual claims while making the communication sharper, more natural, and more persuasive
+
+## Example Prompts
+
+- "Rewrite this founder update so it sounds sharper and less generic."
+- "Turn this technical concept into a clear explanation for non-technical executives."
+- "Help me write a launch post for this open-source project."
+- "Rewrite this README introduction so developers understand the value faster."
+- "Turn this product explanation into an investor pitch narrative."
+- "Make this message warmer, more direct, and less AI-written."
+- "Convert this abstract idea into a story people can remember."
+
 ## Who It's For
 
-For people who know what they mean, but keep watching others misunderstand it.
+Writers, founders, developers, marketers, operators, and product teams use this skill to draft and rewrite high-stakes communication: emails, pitches, launch posts, speeches, README introductions, proposals, personal messages, executive summaries, and technical-to-nontechnical explanations.
 
-Useful for founders preparing a pitch, engineers explaining architecture, BD leads writing outreach that does not sound templated, and writers who want structure without losing their voice.
-
-## Try It
-
-- "Write an article about why disconnected data is more dangerous than missing data."
-- "Help me message an expert through a friend's intro. I want to explore collaboration."
-- "Explain this technical architecture to someone with no engineering background."
-- "Give me a short follow-up after tomorrow's pitch meeting."
-- "Not cold outreach. This is through a friend."
-
-## What It Helps You Do
-
-| Task | Example |
-| --- | --- |
-| Public narrative | Turn a product launch into a story with tension, stakes, and a memorable close |
-| One-on-one strategy | Prepare a message to an investor, expert, or partner that moves the relationship forward |
-| Expert translation | Explain a technical concept to a different audience without dumbing it down |
-| Quick messages | Draft a warm intro, follow-up, or meeting confirmation in a few sentences |
-| Personal communication | Draft a personal, romantic, or emotionally sensitive message that stays natural |
-| Rewrite recovery | Diagnose why a draft did not land, then reroute instead of surface-polishing |
+The skill is useful when the source material is abstract, technical, sensitive, strategic, or too generic. It improves narrative structure, audience fit, claim fidelity, emotional force, and naturalness while avoiding over-selling or unsupported claims.
 
 ## How It Works
 

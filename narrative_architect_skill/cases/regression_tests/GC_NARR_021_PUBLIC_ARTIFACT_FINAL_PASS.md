@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Test whether Robert Skill performs a final release pass on public artifacts.
+Test whether the skill performs a final release pass on public artifacts.
 
 ## Scenario
 
@@ -16,7 +16,7 @@ The skill has a rich internal architecture and an internal name that may not be 
 
 ## Required Behavior
 
-Robert Skill must:
+the skill must:
 
 1. Use the user's language.
 2. Prefer public-safe naming if internal name creates risk.

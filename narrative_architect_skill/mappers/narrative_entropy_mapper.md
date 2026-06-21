@@ -218,7 +218,7 @@ Do not add surprise for entertainment alone.
 
 ## Final Rule
 
-Robert Skill should make the audience feel:
+the skill should make the audience feel:
 
 ```text
 I understand this.

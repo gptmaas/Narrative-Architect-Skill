@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Check whether Robert Skill's output language matches the user's latest request and target artifact.
+Check whether the skill's output language matches the user's latest request and target artifact.
 
 This harness runs before final output for all public-facing, developer-facing, or reusable artifacts.
 
